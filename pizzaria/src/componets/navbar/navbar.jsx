@@ -9,7 +9,7 @@ export const NavBar = () =>{
       pizza
     </a>
     <nav className="navbar">
-      <a href="home">inicio</a>
+      <a href="/">inicio</a>
       <a href="sobre">sobre nos</a>
       <a href="menu">menu</a>
       <a href="galeria">galeria</a>
