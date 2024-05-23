@@ -6,7 +6,7 @@ export const Banner = () =>{
     <div className="box-container">
       <div className="box">
         <div className="image">
-          <img src="img/banner-1.jpg" alt="" />
+          <img src="src/img/banner-1.jpg" alt="" />
         </div>
         <div className="content">
           <h3>pizza</h3>
@@ -14,7 +14,7 @@ export const Banner = () =>{
       </div>
       <div className="box">
         <div className="image">
-          <img src="img/banner-2.jpg" alt="" />
+          <img src="src/img/banner-2.jpg" alt="" />
         </div>
         <div className="content">
           <h3>sobremesas</h3>
@@ -22,7 +22,7 @@ export const Banner = () =>{
       </div>
       <div className="box">
         <div className="image">
-          <img src="img/banner-3.jpg" alt="" />
+          <img src="src/img/banner-3.jpg" alt="" />
         </div>
         <div className="content">
           <h3>massas</h3>
@@ -30,7 +30,7 @@ export const Banner = () =>{
       </div>
       <div className="box">
         <div className="image">
-          <img src="img/banner-4.jpg" alt="" />
+          <img src="src/img/banner-4.jpg" alt="" />
         </div>
         <div className="content">
           <h3>vinhos</h3>
